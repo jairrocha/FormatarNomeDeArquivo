@@ -5,7 +5,7 @@ Este utilitário renomea de forma automática arquivos que começam com números
 
 Como utilizar? 
 
-Basta colar o VBS no diretório que possui os arquivos a serem renomeados, e executar o mesmo. Atenção: Caso o diretório possua subdiretórios o script irá também renomear os arquivos dentros do subdiretório.
+Basta colar o VBS no diretório que possui os arquivos a serem renomeados, e executar o mesmo. Atenção: Caso o diretório possua subdiretórios o script irá renomear o(s) arquivo(s) pertecente(s) ao(s) mesmo(s).
 
 
 
